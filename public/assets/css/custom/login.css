@@ -1,0 +1,23 @@
+.logo_default {
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+}
+
+#login {
+    color: #0071BB;
+}
+
+.title {
+    text-align: center;
+    margin-top: 10%;
+}
+
+#main-div {
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+}

@@ -1,0 +1,4 @@
+.horizontal-menu .header-navbar.navbar-horizontal ul#main-menu-navigation>li.active>a {
+    background: linear-gradient(118deg, #0071BB, rgba(0, 113, 187, 1));
+    box-shadow: 0px 0px 6px 1px rgba(0, 113, 187, 1);
+}
